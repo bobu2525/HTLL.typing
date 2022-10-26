@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <p id="count" class="count">20</p>
+  <p id="count" class="count">24</p>
   <div id="wrap" class="wrap">
     <span id="typed" class="typed"></span><span id="untyped"></span> 
   </div>
