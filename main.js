@@ -80,7 +80,7 @@ const rankCheck = score => {
 
   // スコアに応じて異なるメッセージを変数textに格納する
   if(score < 100) {
-    text = `あなたのランクはC（タカ〇キです。\nBランクまであと${100 - score}文字です。`;
+    text = `あなたのランクはC（タ〇キです。\nBランクまであと${100 - score}文字です。`;
   } else if(score < 200) {
     text = 'あなたのランクはBです。\nAランクまであと${200 - score}文字です。';
   } else if(score > 300) {
