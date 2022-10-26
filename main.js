@@ -12,7 +12,7 @@ const count = document.getElementById('count');
 
 // 複数のテキストを格納する配列
 const textLists = [
- 'ことな','けいな','のぶゆき','えり','家族',
+ 'ことな','けいな','のぶゆき','えり','家族'
 ];
 // ランダムなテキストを表示
 const createText = () => {
